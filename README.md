@@ -52,6 +52,15 @@ ABC Tech handles ~25,000 ITSM incident tickets annually. Traditional process imp
 - High-priority prediction achieved strong recall scores using **XGBoost with SMOTENC**.
 - Volume forecasting showed consistent patterns across departments each quarter.
 
+## 🌐 Links
+
+- 🔗 [Kaggle](https://www.kaggle.com/)
+- 🧠 [XGBoost Documentation](https://xgboost.readthedocs.io/)
+- 🐍 [scikit-learn](https://scikit-learn.org/)
+- 📘 [LinkedIn – Ajinkya Itale](https://www.linkedin.com/in/ajinkya-itale-b8048721b)
+
+---  
+
 
 ## 🧑‍💻 Author
 
