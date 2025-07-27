@@ -67,6 +67,6 @@ ABC Tech handles ~25,000 ITSM incident tickets annually. Traditional process imp
 **Ajinkya Itale**  
 _Data Science & Machine Learning Enthusiast_  
 📧 [ajinkyaitale18@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/ajinkya-itale-b8048721b)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ajinkya-itale-b8048721b)
 
 
