@@ -1,10 +1,10 @@
-# 🚨 IT Incident Management (ABC Tech)
+# 🚨 IT Incident Management Using Machine Learning
 
-This project focuses on optimizing IT incident management for ABC Tech, a mid-sized IT services company. By leveraging machine learning and data analytics, we aim to streamline operations, enhance ticket handling efficiency, and support data-driven decision-making in IT service workflows.
+This project focuses on optimizing IT incident management for a mid-sized IT services company. By leveraging machine learning and data analytics, we aim to streamline operations, enhance ticket handling efficiency, and support data-driven decision-making in IT service workflows.
 
 ## 📌 Problem Statement
 
-ABC Tech handles ~25,000 ITSM incident tickets annually. Traditional process improvements have plateaued, and customer satisfaction has declined. This project introduces Machine Learning (ML) techniques to:
+This company handles ~25,000 ITSM incident tickets annually. Traditional process improvements have plateaued, and customer satisfaction has declined. This project introduces Machine Learning (ML) techniques to:
 
 1. **Predict High Priority Tickets**  
 2. **Forecast Incident Volume by Department/Quarter**  
